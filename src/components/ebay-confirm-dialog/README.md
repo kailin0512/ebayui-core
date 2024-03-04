@@ -1,3 +1,9 @@
+---
+ds-component:
+    name: alert-dialog
+    status: beta
+---
+
 <h1 style='display: flex; justify-content: space-between; align-items: center;'>
     <span>
         ebay-confirm-dialog
