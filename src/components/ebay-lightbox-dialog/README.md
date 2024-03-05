@@ -1,9 +1,9 @@
 ---
 ds-component:
     - name: modal
-      version: 2.0.0
+        version: 2.0.0
     - name: bottom-sheet
-      version: 2.0.0
+        version: 2.0.0
 ---
 
 <h1 style='display: flex; justify-content: space-between; align-items: center;'>
