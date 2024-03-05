@@ -1,3 +1,9 @@
+---
+ds-component:
+    name: tabs
+    version: 2.1.0
+---
+
 <h1 style='display: flex; justify-content: space-between; align-items: center;'>
     <span>
         ebay-tabs

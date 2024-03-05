@@ -1,3 +1,9 @@
+---
+ds-component:
+    name: progress-bar
+    version: 2.1.0
+---
+
 <h1 style='display: flex; justify-content: space-between; align-items: center;'>
     <span>
         ebay-progress-bar

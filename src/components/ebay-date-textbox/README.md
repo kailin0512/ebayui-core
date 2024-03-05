@@ -1,3 +1,9 @@
+---
+ds-component:
+    name: date-picker
+    version: 1.2.0
+---
+
 <h1 style='display: flex; justify-content: space-between; align-items: center;'>
     <span>
         ebay-date-textbox

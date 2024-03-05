@@ -1,3 +1,9 @@
+---
+ds-component:
+    name: progress-stepper
+    version: 3.1.0
+---
+
 <h1 style='display: flex; justify-content: space-between; align-items: center;'>
     <span>
         ebay-progress-stepper

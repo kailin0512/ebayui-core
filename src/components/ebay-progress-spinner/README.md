@@ -1,3 +1,9 @@
+---
+ds-component:
+    name: progress-spinner
+    version: 2.1.0
+---
+
 <h1 style='display: flex; justify-content: space-between; align-items: center;'>
     <span>
         ebay-progress-spinner

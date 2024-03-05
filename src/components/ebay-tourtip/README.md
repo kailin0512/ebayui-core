@@ -1,3 +1,9 @@
+---
+ds-component:
+    name: tourtip
+    version: 1.0.0
+---
+
 <h1 style='display: flex; justify-content: space-between; align-items: center;'>
     <span>
         ebay-tourtip

@@ -1,3 +1,10 @@
+---
+ds-component:
+    group: button
+    name: icon-button
+    version: 1.1.0
+---
+
 <h1 style="display: flex; justify-content: space-between; align-items: center;">
     <span>
         ebay-icon

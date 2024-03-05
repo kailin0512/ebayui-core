@@ -1,3 +1,12 @@
+---
+ds-component:
+    - group: button
+      name: button
+      version: 1.1.0
+    - name: text-link
+      version: 1.1.0
+---
+
 <h1 style="display: flex; justify-content: space-between; align-items: center;">
     <span>
         ebay-fake-link

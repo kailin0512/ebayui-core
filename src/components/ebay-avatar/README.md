@@ -1,6 +1,6 @@
 ---
 ds-component:
-    component: avatar
+    name: avatar
     version: 1.2.0
 ---
 

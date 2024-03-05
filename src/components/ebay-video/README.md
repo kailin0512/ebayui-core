@@ -1,3 +1,9 @@
+---
+ds-component:
+    name: video-player
+    version: 1.0.0
+---
+
 <h1 style='display: flex; justify-content: space-between; align-items: center;'>
     <span>
         ebay-video
