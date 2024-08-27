@@ -87,7 +87,9 @@
           [0m5[0m
         [36m</a>[39m
       [36m</li>[39m
-      [36m<li>[39m
+      [36m<li[39m
+        [33mhidden[39m=[32m""[39m
+      [36m>[39m
         [36m<a[39m
           [33mclass[39m=[32m"pagination__item"[39m
           [33mhref[39m=[32m"#"[39m
@@ -95,7 +97,9 @@
           [0m6[0m
         [36m</a>[39m
       [36m</li>[39m
-      [36m<li>[39m
+      [36m<li[39m
+        [33mhidden[39m=[32m""[39m
+      [36m>[39m
         [36m<a[39m
           [33mclass[39m=[32m"pagination__item"[39m
           [33mhref[39m=[32m"#"[39m
@@ -103,7 +107,9 @@
           [0m7[0m
         [36m</a>[39m
       [36m</li>[39m
-      [36m<li>[39m
+      [36m<li[39m
+        [33mhidden[39m=[32m""[39m
+      [36m>[39m
         [36m<a[39m
           [33mclass[39m=[32m"pagination__item"[39m
           [33mhref[39m=[32m"#"[39m
@@ -111,7 +117,9 @@
           [0m8[0m
         [36m</a>[39m
       [36m</li>[39m
-      [36m<li>[39m
+      [36m<li[39m
+        [33mhidden[39m=[32m""[39m
+      [36m>[39m
         [36m<a[39m
           [33mclass[39m=[32m"pagination__item"[39m
           [33mhref[39m=[32m"#"[39m

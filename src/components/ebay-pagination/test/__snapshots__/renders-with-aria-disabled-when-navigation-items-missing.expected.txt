@@ -44,7 +44,9 @@
     [36m<ol[39m
       [33mclass[39m=[32m"pagination__items"[39m
     [36m>[39m
-      [36m<li>[39m
+      [36m<li[39m
+        [33mhidden[39m=[32m""[39m
+      [36m>[39m
         [36m<a[39m
           [33mclass[39m=[32m"pagination__item"[39m
           [33mhref[39m=[32m"#"[39m
@@ -93,7 +95,9 @@
           [0mitem 5[0m
         [36m</a>[39m
       [36m</li>[39m
-      [36m<li>[39m
+      [36m<li[39m
+        [33mhidden[39m=[32m""[39m
+      [36m>[39m
         [36m<a[39m
           [33mclass[39m=[32m"pagination__item"[39m
           [33mhref[39m=[32m"#"[39m
@@ -101,7 +105,9 @@
           [0mitem 6[0m
         [36m</a>[39m
       [36m</li>[39m
-      [36m<li>[39m
+      [36m<li[39m
+        [33mhidden[39m=[32m""[39m
+      [36m>[39m
         [36m<a[39m
           [33mclass[39m=[32m"pagination__item"[39m
           [33mhref[39m=[32m"#"[39m
@@ -109,7 +115,9 @@
           [0mitem 7[0m
         [36m</a>[39m
       [36m</li>[39m
-      [36m<li>[39m
+      [36m<li[39m
+        [33mhidden[39m=[32m""[39m
+      [36m>[39m
         [36m<a[39m
           [33mclass[39m=[32m"pagination__item"[39m
           [33mhref[39m=[32m"#"[39m
@@ -117,7 +125,9 @@
           [0mitem 8[0m
         [36m</a>[39m
       [36m</li>[39m
-      [36m<li>[39m
+      [36m<li[39m
+        [33mhidden[39m=[32m""[39m
+      [36m>[39m
         [36m<a[39m
           [33mclass[39m=[32m"pagination__item"[39m
           [33mhref[39m=[32m"#"[39m
@@ -125,7 +135,9 @@
           [0mitem 9[0m
         [36m</a>[39m
       [36m</li>[39m
-      [36m<li>[39m
+      [36m<li[39m
+        [33mhidden[39m=[32m""[39m
+      [36m>[39m
         [36m<a[39m
           [33mclass[39m=[32m"pagination__item"[39m
           [33mhref[39m=[32m"#"[39m
@@ -133,7 +145,9 @@
           [0mitem 10[0m
         [36m</a>[39m
       [36m</li>[39m
-      [36m<li>[39m
+      [36m<li[39m
+        [33mhidden[39m=[32m""[39m
+      [36m>[39m
         [36m<a[39m
           [33mclass[39m=[32m"pagination__item"[39m
           [33mhref[39m=[32m"#"[39m
@@ -141,7 +155,9 @@
           [0mitem 11[0m
         [36m</a>[39m
       [36m</li>[39m
-      [36m<li>[39m
+      [36m<li[39m
+        [33mhidden[39m=[32m""[39m
+      [36m>[39m
         [36m<a[39m
           [33mclass[39m=[32m"pagination__item"[39m
           [33mhref[39m=[32m"#"[39m
@@ -149,7 +165,9 @@
           [0mitem 12[0m
         [36m</a>[39m
       [36m</li>[39m
-      [36m<li>[39m
+      [36m<li[39m
+        [33mhidden[39m=[32m""[39m
+      [36m>[39m
         [36m<a[39m
           [33mclass[39m=[32m"pagination__item"[39m
           [33mhref[39m=[32m"#"[39m
@@ -157,7 +175,9 @@
           [0mitem 13[0m
         [36m</a>[39m
       [36m</li>[39m
-      [36m<li>[39m
+      [36m<li[39m
+        [33mhidden[39m=[32m""[39m
+      [36m>[39m
         [36m<a[39m
           [33mclass[39m=[32m"pagination__item"[39m
           [33mhref[39m=[32m"#"[39m

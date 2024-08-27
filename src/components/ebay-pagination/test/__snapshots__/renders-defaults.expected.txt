@@ -81,77 +81,99 @@
           [0m4[0m
         [36m</button>[39m
       [36m</li>[39m
-      [36m<li>[39m
+      [36m<li[39m
+        [33mhidden[39m=[32m""[39m
+      [36m>[39m
         [36m<button[39m
           [33mclass[39m=[32m"pagination__item"[39m
         [36m>[39m
           [0m5[0m
         [36m</button>[39m
       [36m</li>[39m
-      [36m<li>[39m
+      [36m<li[39m
+        [33mhidden[39m=[32m""[39m
+      [36m>[39m
         [36m<button[39m
           [33mclass[39m=[32m"pagination__item"[39m
         [36m>[39m
           [0m6[0m
         [36m</button>[39m
       [36m</li>[39m
-      [36m<li>[39m
+      [36m<li[39m
+        [33mhidden[39m=[32m""[39m
+      [36m>[39m
         [36m<button[39m
           [33mclass[39m=[32m"pagination__item"[39m
         [36m>[39m
           [0m7[0m
         [36m</button>[39m
       [36m</li>[39m
-      [36m<li>[39m
+      [36m<li[39m
+        [33mhidden[39m=[32m""[39m
+      [36m>[39m
         [36m<button[39m
           [33mclass[39m=[32m"pagination__item"[39m
         [36m>[39m
           [0m8[0m
         [36m</button>[39m
       [36m</li>[39m
-      [36m<li>[39m
+      [36m<li[39m
+        [33mhidden[39m=[32m""[39m
+      [36m>[39m
         [36m<button[39m
           [33mclass[39m=[32m"pagination__item"[39m
         [36m>[39m
           [0m9[0m
         [36m</button>[39m
       [36m</li>[39m
-      [36m<li>[39m
+      [36m<li[39m
+        [33mhidden[39m=[32m""[39m
+      [36m>[39m
         [36m<button[39m
           [33mclass[39m=[32m"pagination__item"[39m
         [36m>[39m
           [0m10[0m
         [36m</button>[39m
       [36m</li>[39m
-      [36m<li>[39m
+      [36m<li[39m
+        [33mhidden[39m=[32m""[39m
+      [36m>[39m
         [36m<button[39m
           [33mclass[39m=[32m"pagination__item"[39m
         [36m>[39m
           [0m11[0m
         [36m</button>[39m
       [36m</li>[39m
-      [36m<li>[39m
+      [36m<li[39m
+        [33mhidden[39m=[32m""[39m
+      [36m>[39m
         [36m<button[39m
           [33mclass[39m=[32m"pagination__item"[39m
         [36m>[39m
           [0m12[0m
         [36m</button>[39m
       [36m</li>[39m
-      [36m<li>[39m
+      [36m<li[39m
+        [33mhidden[39m=[32m""[39m
+      [36m>[39m
         [36m<button[39m
           [33mclass[39m=[32m"pagination__item"[39m
         [36m>[39m
           [0m13[0m
         [36m</button>[39m
       [36m</li>[39m
-      [36m<li>[39m
+      [36m<li[39m
+        [33mhidden[39m=[32m""[39m
+      [36m>[39m
         [36m<button[39m
           [33mclass[39m=[32m"pagination__item"[39m
         [36m>[39m
           [0m14[0m
         [36m</button>[39m
       [36m</li>[39m
-      [36m<li>[39m
+      [36m<li[39m
+        [33mhidden[39m=[32m""[39m
+      [36m>[39m
         [36m<button[39m
           [33mclass[39m=[32m"pagination__item"[39m
         [36m>[39m
